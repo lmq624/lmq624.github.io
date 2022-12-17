@@ -1,2 +1,102 @@
-# lmq624.github.io
-个人主页
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>LMQ</title>
+    <link rel="stylesheet" href="jemdoc.css" type="text/css" />
+    <link rel="shortcut icon" href="Image/ff0.png" type="Image/png" />
+</head>
+
+<body>
+    <div id="layout-content">
+        <div id="toptitle">
+            <p><b>注：鉴于我的个人主页那个库有时不怎么更新，导致有时候登不进lmq624.github.io。<br>&emsp;&emsp;所以使该md文件内容与index.html文件同步更新<br>&emsp;&emsp;其实是直接使用了html内的代码。</b></p>
+            <h1>基础信息</h1>
+        </div>
+        <table class="imgtable"> 
+            <tr>
+                <td>
+                    <img src="Image/ff0.png" width="120px" />
+                </td>
+                <td>
+                    <p>本科生；男；<br>
+                        电子信息工程专业；<br>
+                        普通开发者；<br>
+                        <a href="http://github.com/lmq624">[我的GtiHub项目]</a><br>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <h2>前言（大概）</h2>
+        <table class="imgtable">
+            <tr>
+                <td>
+                    <h3>一直坚持的</h3>
+                    <ol>
+                        <li>致力于使用科技手段来便利日常学习生活，例如获知高效学习方法、获取优质参考资料等。
+                        </li>
+                        <li>
+                            乐于合作交流，看重学习等过程中存在的协作或互助机制。
+                        </li>
+                        <li>保持着对高科技含量电子产品相关工作原理及生产工艺的强烈好奇心。</li>
+                    </ol>
+                    <h3>谜语人时刻</h3><br>
+                    &emsp;&emsp;那位曾对我说：“合作交流者间，共商各自需求，
+                    各自以用适用于自身的方式、分工去达成共同的目标。
+                    若你是这体系内的至高阶强者之一，则应为所在合作体系走向更强而奉献些，甚时得顾全大局、
+                    善与尚且不强者共同成就更强，而这些意味着这些“强者”在思想上就得“先行一步。”<br>
+                    &emsp;&emsp;也曾对我说：“莫要一昧依赖他人，遥想这人生路漫漫，
+                    还有诸多挑战需要你独立面对，切莫丧失了那珍贵的独立思考能力。”
+                </td>
+            </tr>
+        </table>
+        <h2>知识储备</h2>
+        <table class="imgtable">
+            <tr>
+                <td><img src="Image/部分桌面应用.png" width="200px" /><br>
+                    <p>&emsp;图为部分工程软件截图</p>
+                </td>
+                <td>
+                    <p>&emsp;&emsp;已掌握(编译型语言)C、C++基础知识体系，已初步掌握解释型语言Python、标记语言如XML、HTML、MarkDown的基础语法。</p><br>
+                    <p>&emsp;&emsp;能够使用keil5、Qt5.14.2、VS
+                        2022开发<b>简易嵌入式应用</b>、<b>简易桌面应用</b>或者<b>简易安卓APP</b>，已入门Multisim，勉强入门SolidWork。</p>
+                </td>
+            </tr>
+        </table>
+        <h2>近期项目</h2>
+        <table class="imgtable">
+            <tr>
+                <td><a href="http://github.com/lmq624/51MCU-Bluetooth">[GitHub]使用了蓝牙模块和51单片机的通讯电路（大概？）<br>
+                        <p>项目开发进度：待上传至仓库</p>
+                    </a></td>
+                <td><a href="http://github.com/lmq624/Plans-Execution">[GitHub]用于描述大型计划的新文件类型及其配套桌面应用<br>
+                        <p>项目开发进度：待上传至仓库</p>
+                    </a></td>
+            </tr>
+            <tr>
+                <td><a href="http://github.com/lmq624/">[GitHub]过滤器<br>
+                        <p>项目开发进度：已上传部分代码，正在优化其GUI</p>
+                    </a></td>
+            </tr>
+        </table>
+        <h2>常用技术交流社区</h2>
+        <table class="imgtable">
+            <tr>
+                <td><a href="https://www.csdn.net/" title="CSDN"><img src="Image/CSDN.png" /></a></td>
+                <td><a href="https://www.cnblogs.com/"><img src="Image/博客园.png" /></a></td>
+                <td><a href="https://juejin.cn/"><img src="Image/稀土掘金.png" /></a></td>
+            </tr>
+        </table>
+        <h2>《这个头像是ff0》</h2>
+        <p><a href="Image/ff0.txt" type="Image/txt">
+                <b>&emsp;&emsp;你想知道更多吗？</b>她的原型是中国国产手游《明日方舟》的医疗干员华法琳，设定上...
+            </a></p>
+    </div>
+</body>
+
+</html>
